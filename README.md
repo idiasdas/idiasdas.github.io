@@ -3,7 +3,7 @@ I'm a PhD. Student at [Inria](https://www.inria.fr/fr) under the supervision of 
 I'm a member of [COATI](https://team.inria.fr/coati/), a joint project team between the [Inria](https://www.inria.fr/fr/centre-inria-universite-cote-azur) Centre at Université Côte d’Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en).
 
 ## Research
-My research is focused on how to optimize UAVs' path planning and deployment to achieve their goals efficiently.
+My research is focused on how to optimize UAVs' deployment and trajectories to achieve their goals efficiently.
 
 ## Publications
 * Igor Dias da Silva, Yann Busnel, Christelle Caillouet. Optimisation de plan de vol de drones autonomes pour une recharge rapide de capteurs. AlgoTel 2023 - 25èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications, May 2023, Cargese, France. [⟨hal-04087105⟩](https://hal.science/hal-04087105)
