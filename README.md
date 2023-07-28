@@ -7,12 +7,6 @@ Optimisation of UAVs' deployment and trajectories to achieve their goals efficie
 
 ## Publications
 
-* I. Dias Da Silva, Y. Busnel and C. Caillouet, "Optimisation de plan de vol de drones autonomes pour une recharge rapide de capteurs", In AlgoTel 2023 - 25èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications.  [https://hal.science/hal-04087105]((HAL-04087105))
-* I. Dias Da Silva, Y. Busnel and C. Caillouet, "Optimisation de plan de vol de drones autonomes pour une recharge rapide de capteurs", In AlgoTel 2023 - 25èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications.  [https://hal.science/hal-04087105]((HAL-04087105))
-
-* I. Dias Da Silva, Y. Busnel and C. Caillouet, "Trajectory Optimization for Fast Sensor Energy Replenishment using UAVs as RF sources", GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022  [https://doi.org/10.1109/GLOBECOM48099.2022.10001604]((IEEE-10001604))
-* I. Dias Da Silva, Y. Busnel and C. Caillouet, "Trajectory Optimization for Fast Sensor Energy Replenishment using UAVs as RF sources", GLOBECOM 2022 - 2022 IEEE Global Communications Conference, Rio de Janeiro, Brazil, 2022  [https://doi.org/10.1109/GLOBECOM48099.2022.10001604]((IEEE-10001604))
-
 * I. Dias da Silva, C. Caillouet. "Quand l'immobilisme coûte plus cher que l'échange". AlgoTel 2022 - 24èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications, May 2022, Saint-Rémy-Lès-Chevreuse, France.  [https://inria.hal.science/hal-03665199/document]((HAL-03665199))
 * I. Dias da Silva, C. Caillouet. "Quand l'immobilisme coûte plus cher que l'échange". AlgoTel 2022 - 24èmes Rencontres Francophones sur les Aspects Algorithmiques des Télécommunications, May 2022, Saint-Rémy-Lès-Chevreuse, France.  [https://inria.hal.science/hal-03665199/document]((HAL-03665199))
 
