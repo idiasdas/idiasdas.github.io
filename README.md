@@ -1,9 +1,9 @@
-I'm a PhD Student at [Inria](https://www.inria.fr/fr) under the supervision of [David Coudert](http://www-sop.inria.fr/members/David.Coudert/index.shtml) and [Christelle Caillouet](http://www-sop.inria.fr/members/Christelle.Molle-Caillouet/).
+I am a postdoc researcher at [autOCampus Project](https://www.irit.fr/autocampus/) under the supervision of [André-Luc Beylot](https://www.irit.fr/~Andre-Luc.Beylot/) and [Rahim Kacimi](https://www.irit.fr/~Rahim.Kacimi/).
 
-I'm a member of [COATI](https://team.inria.fr/coati/), a joint project team between the [Inria](https://www.inria.fr/fr/centre-inria-universite-cote-azur) Centre at [Université Côte d’Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en).
+I was a PhD Student at [Inria](https://www.inria.fr/fr) under the supervision of [David Coudert](http://www-sop.inria.fr/members/David.Coudert/index.shtml) and [Christelle Caillouet](http://www-sop.inria.fr/members/Christelle.Molle-Caillouet/) as a a member of [COATI](https://team.inria.fr/coati/), a joint project team between the [Inria](https://www.inria.fr/fr/centre-inria-universite-cote-azur) Centre at [Université Côte d’Azur](https://www.inria.fr/fr/centre-inria-universite-cote-azur) and the [I3S Laboratory](https://www.i3s.unice.fr/en).
 
 ## Research
-Optimisation of UAVs' deployment and trajectories to achieve their goals efficiently. So far, we focused on applications such as: deploying flying ad-hoc networks to track mobile sensors and deploying drones to recharge the battery of static devices with wireless energy harvesting.
+My postdoctoral research focuses on autonomous vehicles and communication. My thesis focused on optimising UAV deployment and trajectories to achieve their goals efficiently. We studied applications such as deploying flying ad-hoc networks to track mobile sensors and deploying drones to recharge the battery of static devices with wireless energy harvesting.
 
 ## Publications
 
